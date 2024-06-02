@@ -1,0 +1,28 @@
+# Machine Learning
+scikit-learn==0.24.2       # General machine learning library
+tensorflow==2.8.0          # Deep learning framework
+keras==2.8.0               # High-level neural networks API, works with TensorFlow
+#xgboost==1.7.5            # Extreme Gradient Boosting library
+#lightgbm==4.0.0           # Light Gradient Boosting Machine
+catboost==1.0.6            # Categorical Boosting library
+
+# Data Analysis
+pandas==1.3.5              # Data manipulation and analysis
+numpy==1.21.5              # Fundamental package for numerical computing
+scipy==1.7.3               # Scientific computing and technical computing
+statsmodels==0.13.2        # Statistical modeling and econometrics
+
+# Data Visualization
+matplotlib==3.4.3          # Plotting and visualization library
+#seaborn==0.12.0           # Statistical data visualization, built on Matplotlib
+plotly==5.3.1              # Interactive graphing library
+#bokeh==3.2.0              # Interactive visualization library for Python
+#altair==5.0.0             # Declarative statistical visualization library
+
+# Geospatial Data
+geopandas==0.9.0           # Extends pandas to work with geospatial data
+shapely==1.7.1             # Manipulation and analysis of geometric objects
+#fiona==1.9.4              # Reading and writing spatial data files
+#rasterio==1.2.10           # Raster data access and analysis
+#pyproj==3.6.0             # Cartographic projections and coordinate transformations
+#folium==0.12.1             # Interactive maps visualization
