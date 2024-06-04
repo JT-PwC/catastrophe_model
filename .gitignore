@@ -3,8 +3,7 @@ venv/
 env/
 .venv/
 .env/
-inputs/
-.inputs/
+/inputs/lfsa000b21a_e/*
 
 # Python files
 *.pyc
