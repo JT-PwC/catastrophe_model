@@ -1,0 +1,7 @@
+shape_file_path: 'C:\Users\jzhng\Modelling\catastrophe model\inputs\lfsa000b21a_e\lfsa000b21a_e.shp'
+output_html: 'ontario_catastrophe_events.html'
+event_types:
+  - Flood
+  - Fire
+  - Storm
+  - Earthquake

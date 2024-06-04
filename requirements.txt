@@ -25,4 +25,7 @@ shapely==1.7.1             # Manipulation and analysis of geometric objects
 #fiona==1.9.4              # Reading and writing spatial data files
 #rasterio==1.2.10           # Raster data access and analysis
 #pyproj==3.6.0             # Cartographic projections and coordinate transformations
-#folium==0.12.1             # Interactive maps visualization
+folium==0.16.0             # Interactive maps visualization
+
+# Mapping file
+yaml==6.0.1                # YAML for config file
